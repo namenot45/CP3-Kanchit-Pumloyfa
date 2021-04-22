@@ -1,0 +1,10 @@
+firstNum = int(input())
+secondNum = int(input())
+result1 = firstNum + secondNum
+result2 = firstNum - secondNum
+result3 = firstNum * secondNum
+result4 = firstNum / secondNum
+print(firstNum, "+", secondNum, "=", result1)
+print(firstNum, "-", secondNum, "=", result2)
+print(firstNum, "*", secondNum, "=", result3)
+print(firstNum, "/", secondNum, "=", result4)
